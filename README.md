@@ -44,6 +44,25 @@
 
 ![Screenshot (553)](https://user-images.githubusercontent.com/93022913/144689657-a3a9f78f-177f-42a5-b560-37d7a03d29b4.png)
 
+**7. Menentukan bilangan kelipatan 5**
+
+![Screenshot (555)](https://user-images.githubusercontent.com/93022913/144692726-1078f8eb-41ca-4ea2-a4cf-2fd15cbc99ff.png)
+
+
+**Output :**
+
+![Screenshot (554)](https://user-images.githubusercontent.com/93022913/144692734-594a24ca-1e19-4e03-afea-999a515373f6.png)
+
+**8. Menghitung banyak nilai yang sama**
+
+![Screenshot (557)](https://user-images.githubusercontent.com/93022913/144693026-4120a739-a2d4-4fad-a331-a87a02f7de95.png)
+
+**Output :**
+
+![Screenshot (558)](https://user-images.githubusercontent.com/93022913/144693031-4f02ee69-ab96-429a-8a19-97070254710e.png)
+
+
+
 
 
 
