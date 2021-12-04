@@ -1,6 +1,7 @@
 # Tugas-praktikum-python-IV---UTS
 
-1. ![Screenshot (512)](https://user-images.githubusercontent.com/93022913/142427131-6c350ea4-814c-4607-af0a-6ffeeff79430.png)
+**1. Membuat program menginput nama mahasiswa dengan memanfaatkan list **
+![Screenshot (512)](https://user-images.githubusercontent.com/93022913/142427131-6c350ea4-814c-4607-af0a-6ffeeff79430.png)
 
 **Output :**
 
